@@ -6,6 +6,8 @@ files[0] = input("Path to the first headphone recording (MP3) > ")
 files[1] = input("Path to the second headphone recording (MP3) > ")
 
 f = 0
+
+# TIMESTAMPS ARE CODED FOR WALK IN THE PARK BY TRACKTRIBE, I MAY ADD CUSTOMIZABLE SEGMENTS LATER. :3
 start_time_ms = 0
 end_time_ms = 6500
 
